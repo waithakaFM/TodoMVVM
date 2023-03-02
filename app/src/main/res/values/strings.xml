@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoMVVM</string>
+    <string name="deleted">Todo deleted</string>
+    <string name="Undo">UNDO</string>
+</resources>
